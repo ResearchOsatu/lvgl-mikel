@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marratibel\\Desktop\\LVGL\\LVGL_VISUAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\charts_layout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\TOP_layout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\Boxes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\general_layout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\R500_lvgl_interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|C:\\Users\\marratibel\\Desktop\\LVGL\\LVGL_VISUAL\\LvglWindowsSimulator\\LvglWindowsSimulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CA6E070-4AC1-475E-BB17-CF29AE4806DF}|LvglWindowsSimulator\\LvglWindowsSimulator.vcxproj|solutionrelative:LvglWindowsSimulator\\LvglWindowsSimulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chart3.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart3.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\chart3.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart3.cpp",
+              "RelativeToolTip": "..\\TFT\\chart3.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:40:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chart2.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart2.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\chart2.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart2.cpp",
+              "RelativeToolTip": "..\\TFT\\chart2.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:40:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "charts_layout.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\charts_layout.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\charts_layout.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\charts_layout.cpp",
+              "RelativeToolTip": "..\\TFT\\charts_layout.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:23:44.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chart1.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart1.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\chart1.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\chart1.cpp",
+              "RelativeToolTip": "..\\TFT\\chart1.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:24:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TOP_layout.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\TOP_layout.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\TOP_layout.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\TOP_layout.cpp",
+              "RelativeToolTip": "..\\TFT\\TOP_layout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:23:16.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boxes.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\Boxes.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\Boxes.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\Boxes.cpp",
+              "RelativeToolTip": "..\\TFT\\Boxes.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:20:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "general_layout.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\general_layout.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\general_layout.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\general_layout.cpp",
+              "RelativeToolTip": "..\\TFT\\general_layout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:15:26.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "R500_lvgl_interface.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\R500_lvgl_interface.cpp",
+              "RelativeDocumentMoniker": "..\\TFT\\R500_lvgl_interface.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\TFT\\R500_lvgl_interface.cpp",
+              "RelativeToolTip": "..\\TFT\\R500_lvgl_interface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:13:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LvglWindowsSimulator.cpp",
+              "DocumentMoniker": "C:\\Users\\marratibel\\Desktop\\LVGL\\LVGL_VISUAL\\LvglWindowsSimulator\\LvglWindowsSimulator.cpp",
+              "RelativeDocumentMoniker": "LvglWindowsSimulator\\LvglWindowsSimulator.cpp",
+              "ToolTip": "C:\\Users\\marratibel\\Desktop\\LVGL\\LVGL_VISUAL\\LvglWindowsSimulator\\LvglWindowsSimulator.cpp",
+              "RelativeToolTip": "LvglWindowsSimulator\\LvglWindowsSimulator.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T11:08:38.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
